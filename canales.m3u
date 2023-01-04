@@ -2,5 +2,9 @@
 
 #EXTINF:-1 ,CANAL 281
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 ,CANAL pluto tv telenocelas de thriller
+#EXTINF:-1 ,CANAL PLUTO TV TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
+#EXTINF:-1 ,CANAL VIWIX TV SERIES
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+#EXTINF:-1 ,CANAL PLUTO TV SERIE 
+https://service-stitcher.clusters .pluto.tv/stitch/his/channel /5dd837642c6e9300098ad484/master .m3u8?advertisingid=&appName=web& appVersion=5.14.0-0f5ca04c21649b8c8 aad4e56266a23b96d73b83a&app_name =web&clientDeviceType=0&clientID= 6fbead95-26b1-415d-998f-1bdef62d10be &clientModelNumber=na&deviceDNT= false&deviceld=6fbead95-26b1-415d -998f-1bdef62d10be&deviceLat=19.4358 &deviceLon=-99.1441&deviceMake= Chrome&deviceModel=web&deviceType =web&deviceVersion=88.0.4324.1508 marketingRegion=VE&serverSideAds=false &sessionID=b8e5a857-714a-11eb-b532 -0242ac110002&sid=b8e5a857-714a-11eb -b532-0242ac110002&userid=
