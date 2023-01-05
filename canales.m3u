@@ -1,152 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1",Gol Perú
+#EXTINF:-1 tvg-chno="1",Tnt España
 
-http://magmas5.com:8000/live/malotv/gratis/140568.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.0",Tv publica arg.
-
-https://is-tucuman.cdn.rcs.net.ar/mnp/tvp/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/126354.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1.0.1",Espn Premium Argentina
-
-http://magmas5.com:8000/live/malotv/gratis/4787.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.0.1",Fox sports premium
-
-http://magmas5.com:8000/live/malotv/gratis/138305.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.1",Espn1 Argentina
-
-https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
-
-#EXTINF:-1 tvg-id="expn.cl" tvg-name="DEPORTES | ESPN SD" tvg-logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deporte ?",DEPORTES | ESPN SD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127970
-
-#EXTINF:-1 tvg-id="expn.cl" tvg-name="DEPORTES | ESPN HD" tvg-logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deporte ?",DEPORTES | ESPN HD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127971
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 " tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="Deporte ?",DEPORTES | ESPN 2
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127972
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 HD" tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="Deporte ?",DEPORTES | ESPN 2 HD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127973
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 HD" tvg-logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="Deporte ?",DEPORTES | ESPN 3 HD
-
-http://magmas5.com:8000/live/malotv/gratis/2818.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.2",Espn2 Argentina
-
-https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.3",Espn3 Argentina
-
-https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="Deporte ?",DEPORTES | ESPN 4
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127975
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4 SD" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="Deporte ?",DEPORTES | ESPN 4 SD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127977
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN DEPORTES HD" tvg-logo="http://streamgo.vip:8008/images/9e0f4764c088f7c5ebae1d1d2241de0b.png" group-title="Deporte ?",DEPORTES | ESPN DEPORTES HD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127978
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.4",Espn Extra Argentina
-
-https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | EUROSPORT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="Deporte ?",DEPORTES | EUROSPORT 1 FHD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127982
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.5",Tnt sports Argentina
-
-https://ixp-nqn.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.6",Fox sports 1 Argentina
-
-https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS SD" tvg-logo="http://streamgo.vip:8008/images/15687ed27b4587758f022306d2794916.png" group-title="Deporte ?",DEPORTES | FOX SPORTS SD
-
-http://streamgo.vip:8008/m3upremium/m3upremium/127988
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS HD" tvg-logo="http://streamgo.vip:8008/images/15687ed27b4587758f022306d2794916.png" group-title="Deporte ?",DEPORTES | FOX DEPORTES HD
-
-http://magmas5.com:8000/live/malotv/gratis/132268.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2 colombia" tvg-logo="http://streamgo.vip:8008/images/5c9d7aa673c9066a7362bb4eb6a67830.png" group-title="Deporte ?",DEPORTES | FOX DEPORTES 2
-
-http://magmas5.com:8000/live/malotv/gratis/132269.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 argentina" tvg-logo="https://vivotvhd.com/img/cha/1553.gif" group-title="Deporte ?",DEPORTES | Fox Sports Premium
-
-http://magmas5.com:8000/live/malotv/gratis/132270.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 3 colombia
-
-http://magmas5.com:8000/live/malotv/gratis/145409.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV ESP" tvg-logo="http://streamgo.vip:8008/images/bf8bd2f2ce7df8d384e9a63724f1caa3.jpg" group-title="Deporte ?",DEPORTES | GOL TV ESP
-
-http://streamgo.vip:8008/m3upremium/m3upremium/128003
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.7",Fox sports 2 Argentina
-
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.7",Fox sports 3 Argentina
-
-https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.8",Bein Ñ
-
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.8",Sky Sports mix http://magmas5.com:8000/live/malotv/gratis/145811.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1.8",Sky Sports action http://magmas5.com:8000/live/malotv/gratis/145814.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="2",Ecdf Ecuador
+#EXTINF:-1 tvg-chno="2",Espn3
 
 http://magmas5.com:8000/live/malotv/gratis/2686.m3u8
 
@@ -176,63 +36,27 @@ http://magmas5.com:8000/live/malotv/gratis/149990.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="6",Directv sports colombia
-
-http://magmas5.com:8000/live/malotv/gratis/145404.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="6.5",Directv sports argentina
-
-http://magmas5.com:8000/live/malotv/gratis/135642.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="6.7",Directv2 deportes argentina
-
-http://magmas5.com:8000/live/malotv/gratis/135643.m3u8
-
-#EXTINF:-1 tvg-chno="6.7",Directv plus
-
-http://magmas5.com:8000/live/malotv/gratis/135644.m3u8
-
-#EXTM3U
-
 #EXTINF:-1 tvg-chno="7",Liga de Campeones
 
 http://magmas5.com:8000/live/malotv/gratis/152907.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="8",Afizzionados Mx
+#EXTINF:-1 tvg-chno="8",Golden
 
-http://magmas5.com:8000/live/malotv/gratis/148889.m3u8
+http://magmas5.com:8000/live/malotv/gratis/4957.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="9",Espn1 Argentina
+#EXTINF:-1 tvg-chno="9",Espn1
 
 http://magmas5.com:8000/live/malotv/gratis/145417.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="10",Gol Peru Hd
+#EXTINF:-1 tvg-chno="10",Axn
 
-http://magmas5.com:8000/live/malotv/gratis/145450.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="10",Tvc Deportes
-
-http://magmas5.com:8000/live/malotv/gratis/132302.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="10.1",Eleven Sport http://magmas5.com:8000/live/malotv/gratis/144821.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="10.2",Eleven Sport 2 http://magmas5.com:8000/live/malotv/gratis/144822.m3u8
+http://magmas5.com:8000/live/malotv/gratis/4912.m3u8
 
 #EXTM3U
 
@@ -260,65 +84,45 @@ http://magmas5.com:8000/live/malotv/gratis/150081.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="14.5",Hbo Extreme
+#EXTINF:-1 tvg-chno="15",Paramount hd
 
-https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="14.6",Hbo Pop
-
-https://delivery.cdn.rcs.net.ar/hbopop/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="14.8",Hbo Plus
-
-http://magmas5.com:8000/live/malotv/gratis/150080.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="14.8",Hbo Mundi #http://magmas5.com:8000/live/malotv/gratis/135674.m3u8
-
-#EXTM3U #EXTINF:-1 tvg-chno="15",Telemundo Hd (no f)
-
-http://magmas5.com:8000/live/malotv/gratis/2053.m3u8
+http://magmas5.com:8000/live/malotv/gratis/135670.m3u8
 
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="16",Disney xD
 
-https://coteflan.cdn.rcs.net.ar/mnp/disney/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/149679.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="17",Star Chanell
+#EXTINF:-1 tvg-chno="17",Crimen Universal
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="18",Warner
-
-https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/150075.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="19",Paramount
+#EXTINF:-1 tvg-chno="18",Discovery I d
 
-https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="20",Syfi
-
-https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/4790.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="21",Canal Sony
+#EXTINF:-1 tvg-chno="19",True tv Hd
 
-https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/156073.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="20",Caracol Internacional
+
+http://magmas5.com:8000/live/malotv/gratis/3573.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="21",Rcn Full HD
+
+http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
 
 #EXTM3U
 
@@ -334,19 +138,17 @@ http://magmas5.com:8000/live/malotv/gratis/2050.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="24",Bolivision Hd
+#EXTINF:-1 tvg-chno="24",Dazn 2 Deportes
 
-http://magmas5.com:8000/live/malotv/gratis/131654.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="25",Dazn 3 Deportes
-
-http://magmas5.com:8000/live/malotv/gratis/144816.m3u8
+http://magmas5.com:8000/live/malotv/gratis/144815.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="26",Dazn 4 Deportes
+#EXTINF:-1 tvg-chno="25",National geografic sd
+
+http://magmas5.com:8000/live/malotv/gratis/132324.m3u8
+
+#EXTM3U #EXTINF:-1 tvg-chno="26",Dazn 4 Deportes
 
 http://magmas5.com:8000/live/malotv/gratis/144817.m3u8
 
@@ -358,33 +160,27 @@ http://magmas5.com:8000/live/malotv/gratis/132284.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="28",ID de descubrimiento
+#EXTINF:-1 tvg-chno="28",Serie Movistar
 
-http://magmas5.com:8000/live/malotv/gratis/4790.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="28",Discovery Theather
-
-http://magmas5.com:8000/live/malotv/gratis/135678.m3u8
+http://magmas5.com:8000/live/malotv/gratis/126350.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="29",Ciencia del descubrimiento
+#EXTINF:-1 tvg-chno="29",Amc España
 
-https://coop-montehermoso.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/126369.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="30",Historia
+#EXTINF:-1 tvg-chno="30",Cine Comedia
 
-http://magmas5.com:8000/live/malotv/gratis/4808.m3u8
+http://magmas5.com:8000/live/malotv/gratis/2548.m3u8
 
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="31",Hbo mundi
 
-https://cotesma.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/135674.m3u8
 
 #EXTM3U
 
@@ -418,9 +214,9 @@ http://magmas5.com:8000/live/malotv/gratis/145404.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="37",Fox Sports Argentina
+#EXTINF:-1 tvg-chno="37",Fox Sports 2 co
 
-http://magmas5.com:8000/live/malotv/gratis/132268.m3u8
+http://magmas5.com:8000/live/malotv/gratis/145407.m3u8
 
 #EXTM3U
 
@@ -454,9 +250,9 @@ http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="43",Fox sports premium salvador
+#EXTINF:-1 tvg-chno="43",Mega Cine TV
 
-http://magmas5.com:8000/live/malotv/gratis/141925.m3u8
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTM3U
 
@@ -468,6 +264,8 @@ http://magmas5.com:8000/live/malotv/gratis/145808.m3u8
 
 #EXTINF:-1 tvg-chno="45",Acción de Sky Sports
 
+http://magmas5.com:8000/live/malotv/gratis/145814.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="46",Espn 3
@@ -476,7 +274,7 @@ http://magmas5.com:8000/live/malotv/gratis/2818.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="47",Fórmula 1
+#EXTINF:-1 tvg-chno="47",Formula 1
 
 http://magmas5.com:8000/live/malotv/gratis/145436.m3u8
 
@@ -506,15 +304,15 @@ http://magmas5.com:8000/live/malotv/gratis/132325.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="52",Nick sa
+#EXTINF:-1 tvg-chno="52",Nick
 
-https://coop-montehermoso.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+http://magmas5.com:8000/live/malotv/gratis/132326.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="53",Disney Channel españa
+#EXTINF:-1 tvg-chno="53",Cine infantil
 
-http://magmas5.com:8000/live/malotv/gratis/4793.m3u8
+http://magmas5.com:8000/live/malotv/gratis/2554.m3u8
 
 #EXTM3U
 
@@ -536,15 +334,15 @@ http://magmas5.com:8000/live/malotv/gratis/129374.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="57",Inframundo
+#EXTINF:-1 tvg-chno="57",Star channel life
 
-http://magmas5.com:8000/live/malotv/gratis/129373.m3u8
+http://magmas5.com:8000/live/malotv/gratis/4782.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="58",Cine Clasico (no fu)
+#EXTINF:-1 tvg-chno="58",
 
-http://magmas5.com:8000/live/malotv/gratis/12565.m3u8
+
 
 #EXTM3U
 
@@ -602,9 +400,9 @@ http://magmas5.com:8000/live/malotv/gratis/129349.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="68",Crimen Investigacion
+#EXTINF:-1 tvg-chno="68",
 
-http://magmas5.com:8000/live/malotv/gratis/129351.m3u8
+
 
 #EXTM3U
 
@@ -614,9 +412,9 @@ http://magmas5.com:8000/live/malotv/gratis/129366.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="70",Star channel life
+#EXTINF:-1 tvg-chno="70",
 
-http://magmas5.com:8000/live/malotv/gratis/4782.m3u8
+
 
 #EXTM3U
 
@@ -638,673 +436,7 @@ http://magmas5.com:8000/live/malotv/gratis/3849.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="74",Fox sports 2 mx .
+#EXTINF:-1 tvg-chno="74",Fox sports 2.
 
-http://magmas5.com:8000/live/malotv/gratis/132269.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="75",Space
-
-https://clearnet.cdn.rcs.net.ar/mnp/space/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="76",Directv plus ecuador
-
-http://magmas5.com:8000/live/malotv/gratis/149988.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="77",Golden
-
-http://magmas5.com:8000/live/malotv/gratis/4957.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="78",Axn
-
-http://magmas5.com:8000/live/malotv/gratis/4912.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="78",AyE
-
-http://magmas5.com:8000/live/malotv/gratis/135653.m3u8
-
-#EXTINF:-1 tvg-chno="79",Comedy Central
-
-https://clearnet.cdn.rcs.net.ar/mnp/comedy/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="80",Canal 13 chile
-
-http://magmas5.com:8000/live/malotv/gratis/4822.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="80.5",A3d Chile
-
-http://magmas5.com:8000/live/malotv/gratis/4862.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="81",Disney Channel Argentina
-
-http://magmas5.com:8000/live/malotv/gratis/132319.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="82",History Hd
-
-http://magmas5.com:8000/live/malotv/gratis/4808.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="83",Cinemax hd
-
-https://is-cableat.cdn.rcs.net.ar/mnp/cinemax/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="84",Amc hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/amc/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="85",Sify hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/syfy/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="86",Fx hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/fx/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="86.5",Fx Sur
-
-http://magmas5.com:8000/live/malotv/gratis/4788.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="87",Paramount hd
-
-http://magmas5.com:8000/live/malotv/gratis/135670.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="88",Sony hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/sony/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="89",Tbs hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/tbs/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="90",Studio Universal hd
-
-https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="91",Universal Tv
-
-http://magmas5.com:8000/live/malotv/gratis/135663.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="91",Universal Crime
-
-http://magmas5.com:8000/live/malotv/gratis/150075.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="92",Truetv Hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/trutv/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="93",Cartoon Network hd (falla idioma)
-
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="94",Nick Jr. hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="95",Tooncast. hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="96",Discovery. hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/discovery/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="97",Tlc. hd
-
-http://magmas5.com:8000/live/malotv/gratis/156066.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="98",Discovery I d
-
-http://magmas5.com:8000/live/malotv/gratis/4790.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="99",Discovery Cience. hd
-
-https://coop-montehermoso.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="100",History2. hd
-
-https://coop-montehermoso.cdn.rcs.net.ar/mnp/h2/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="101",AyE. hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/ae/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="101.5",Cinecanal. hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="102",TnT Hd
-
-https://is-cableat.cdn.rcs.net.ar/mnp/tnt/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="103",TnT Series
-
-https://is-cableat.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="104",Animal Planet
-
-http://magmas5.com:8000/live/malotv/gratis/4910.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="105",Discovery Id
-
-https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="106",Wow tv Salvador
-
-http://magmas5.com:8000/live/malotv/gratis/145741.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="107",Comedy Central
-
-https://clearnet.cdn.rcs.net.ar/mnp/comedy/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="108",True tv Hd
-
-http://magmas5.com:8000/live/malotv/gratis/156073.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="109",Lifetime
-
-https://clearnet.cdn.rcs.net.ar/mnp/lifetime/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="110",Caracol Internacional
-
-http://magmas5.com:8000/live/malotv/gratis/3573.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="111",Rcn Full hd
-
-http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="112",TeenNick
-
-http://magmas5.com:8000/live/malotv/gratis/132326.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="113",National geografic sd
-
-http://magmas5.com:8000/live/malotv/gratis/132324.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="114",Discovery Kids Hd
-
-https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="115",Fox Sports España
-
-http://magmas5.com:8000/live/malotv/gratis/146542.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="116",Tbs Hd
-
-https://clearnet.cdn.rcs.net.ar/mnp/tbs/output.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="117",Fox Sports 3 (no funciona)
-
-http://magmas5.com:8000/live/malotv/gratis/14619.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="118",Euro Channel
-
-http://magmas5.com:8000/live/malotv/gratis/146594.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="118",Movistar Series
-
-http://magmas5.com:8000/live/malotv/gratis/126350.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="118",Tnt España
-
-http://magmas5.com:8000/live/malotv/gratis/126354.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="118",Amc España
-
-http://magmas5.com:8000/live/malotv/gratis/126369.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="119",Peliculas infantiles
-
-http://magmas5.com:8000/live/malotv/gratis/2554.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="120",Cine Comedia
-
-http://magmas5.com:8000/live/malotv/gratis/2548.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="121",Bella genio
-
-http://magmas5.com:8000/live/malotv/gratis/2549.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="122",Principe del rap
-
-http://magmas5.com:8000/live/malotv/gratis/129317.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="123",Alf
-
-http://magmas5.com:8000/live/malotv/gratis/129321.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="126" ,Oriental tv
-
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="127" ,Ovacion tv
-
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="128" ,Proyecta tv
-
-https://servilive.com:3194/live/proyectatvlive.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="129" ,Quillavision tv
-
-http://v4.tustreaming.cl/quillavision/index.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="130" ,Callao tv
-
-https://servilive.com:3757/live/regiontvlive.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="131" ,Palmeras tv
-
-https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="132" ,Planeta tv Kidz
-
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="133" ,Uranio Tv Yurimaguas
-
-https://live.obslivestream.com/uraniotv/index.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", Anime Zone TV | AR
-
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
-
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", EnerGeek Señal 1 | CL
-
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png", Energeek Señal 2 | CL
-
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png", EnerGeek Señal 3 | CL
-
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
-
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids | CL
-
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports | PE
-
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png", D13 | CL
-
-https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
-
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
-
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
-
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
-
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png", Telered | CR
-
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
-
-#EXTM3U
-
-#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",Antares Televisión (720p) [Not 24/7]
-
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?
-
-#EXTM3U
-
-#EXTINF:0 tvg-country="PE" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="Local",Central TV (Chosica)
-
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8?
-
-#EXTM3U
-
-#EXTINF:-1 tvg-country="PE" tvg-logo="" group-title="Undefined",DMJ (Cuzco) (720p) [Not 24/7]
-
-https://v4.tustreaming.cl/s1tv/playlist.m3u8?
-
-#EXTM3U
-
-#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",Oasis RTV (Trujillo) (720p) [Not 24/7]
-
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8?
-
-#EXTM3U
-
-#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",San isidro Tv
-
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-#EXTM3U
-
-#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",Sicuani TV
-
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/6gKU3Fd.png",Activa TV [Not 24/7]
-
-https://cloudvideo.servers10.com:8081/8126/index.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png",AlmayaTV
-
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://radiostereo99baguagrande.com/wp-content/uploads/2021/10/amazonas-logo-trans.png",Amazonas TV (Bagua) [Not 24/7]
-
-https://stmv.panel.grupolimalive.com/amazonastv/amazonastv/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/05gwtk2.png",Antares Televisión (720p) [Not 24/7]
-
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY",Antena Seis TV (720p) [Geo-blocked]
-
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://anzoategui.tv/wp2/wp-content/uploads/2022/03/anz-tv-white.png",Anzoátegui TV
-
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.asomavision.com/wp-content/uploads/elementor/thumbs/logo-plmdacsiyvbjg8u0c09hltx6cm1h0q2unv4vmd17as.png",Asomavisión
-
-https://asomatv.duckdns.org/livestream/stream.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/uA0GNVH.png",Auténtica Televisión (720p) [Not 24/7]
-
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://bellavision8.com/wp-content/uploads/2020/05/BVlogo.png",Bellavisión
-
-https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/3VkobI4.png",Cajamarca TV (480p) [Not 24/7]
-
-https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/O5MrFjY.png",Canal 8 (Catacaos) (360p) [Not 24/7]
-
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/PE2Gi3N.png",Canal 10 Rio Negro (720p) [Not 24/7]
-
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ItOH7St.png",Canal 12 (720p) [Not 24/7]
-
-https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/TxEBT6I.png",CharapaTV (Pucallpa) [Not 24/7]
-
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png",Cinco TV (480p) [Not 24/7]
-
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/UFH6fVx.png",Cloudserver Latam (CSTV) (720p)
-
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/RrE4P7U.png",Club TV (Santa Juana) (720p) [Not 24/7]
-
-https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/4fSkmoA.png",CNC Digital (Iquitos) (480p) [Not 24/7]
-
-https://cloudvideo.servers10.com:8081/8150/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4kxxSCq.png",Colosal TV (720p) [Not 24/7]
-
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/DI7ZTi9.png",CreoTV (Cajamarca) (720p) [Not 24/7]
-
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/iH2Lx6E.png",Genios TV (Moyobamba) (720p) [Not 24/7]
-
-https://live.obslivestream.com/geniostvmux/index.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/V9UTZ0D.png",GenTV (720p) [Not 24/7]
-
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg",Hermanas Mirabal TV (720p) [Not 24/7]
-
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zK1YcpJ.png",Mega TV (Jaen) (720p) [Not 24/7]
-
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3d4uiZF.png",MegaTV (720p) [Not 24/7]
-
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/FDUkpBQ.png",MegaTV (Yacuiba) (720p) [Not 24/7]
-
-https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YbyjNgU.png",NacionalTV (720p) [Not 24/7]
-
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Y9k9XSO.png",Nativa (720p) [Not 24/7]
-
-https://servilive.com:3449/live/mlecaroslive.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Jdd8j10.png",Neo TV
-
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://nitidafm.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-29-at-11.27.31-AM-300x273.jpeg",Nítida TV
-
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/UlOap5t.png",NicoyaTV (720p) [Not 24/7]
-
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTsv7K-DjEQQAeF4JEjOH-Am8fajBfbjmvtqqUXmw=s400-c-k-c0x00ffffff-no-rj",Nortvisión
-
-https://plataformavideo.com:19360/nortvision/nortvision.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/povZeHm.png",Ready TV Canal 6 (720p) [Not 24/7]
-
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/iHaFLHX.png",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
-
-https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png",RSelvaTV (Tarapoto) (720p) [No 24/7]
-
-https://live.obslivestream.com/selvatv/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/YNZwq9N.png",Tele2000 (Ayacucho) (720p) [No 24/7]
-
-https://servilive.com:3126/live/tele2000live.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xuRj54s.png",TeleCibao (720p) [No 24/7]
-
-http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ug6XNIU.png",Telecolor (Yurimaguas) (720p) [No 24/7]
-
-https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XDMkUfA.png",TeleJunín (576p) [No 24/7]
-
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/F0PWpyc.png",Unitel (Huancayo) (720p) [No 24/7]
-
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+http://magmas5.com:8000/live/malotv/gratis/3838.m3u8
 
