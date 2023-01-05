@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1",Gol Perú
+#EXTINF:-1 tvg-chno="1",Star Chanell
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
-http://magmas5.com:8000/live/malotv/gratis/140568.m3u8
 
 #EXTM3U
 
@@ -42,9 +42,9 @@ http://magmas5.com:8000/live/malotv/gratis/152907.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="8",Afizzionados Mx
+#EXTINF:-1 tvg-chno="8",Warner
 
-http://magmas5.com:8000/live/malotv/gratis/148889.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTM3U
 
@@ -54,9 +54,9 @@ http://magmas5.com:8000/live/malotv/gratis/145417.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="10",Gol Peru Hd
+#EXTINF:-1 tvg-chno="10",
 
-http://magmas5.com:8000/live/malotv/gratis/145450.m3u8
+
 
 #EXTM3U
 
@@ -84,9 +84,9 @@ http://magmas5.com:8000/live/malotv/gratis/150081.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="15",Telemundo Hd
+#EXTINF:-1 tvg-chno="15",
 
-http://magmas5.com:8000/live/malotv/gratis/2053.m3u8
+
 
 #EXTM3U
 
@@ -96,33 +96,32 @@ http://magmas5.com:8000/live/malotv/gratis/149679.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="17",Star Chanell
+#EXTINF:-1 tvg-chno="17",
 
-http://magmas5.com:8000/live/malotv/gratis/138268.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="18",Warner
-
-http://magmas5.com:8000/live/malotv/gratis/40.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="19",Paramount
+#EXTINF:-1 tvg-chno="18",
 
-http://magmas5.com:8000/live/malotv/gratis/48.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="20",Syfi
-
-http://magmas5.com:8000/live/malotv/gratis/4293.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="21",Canal Sony
+#EXTINF:-1 tvg-chno="19",
 
-http://magmas5.com:8000/live/malotv/gratis/4285.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="20",
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="21",
+
+
 
 #EXTM3U
 
@@ -144,9 +143,9 @@ http://magmas5.com:8000/live/malotv/gratis/144815.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="25",Dazn 3 Deportes
+#EXTINF:-1 tvg-chno="25",
 
-http://magmas5.com:8000/live/malotv/gratis/144816.m3u8
+
 
 #EXTM3U #EXTINF:-1 tvg-chno="26",Dazn 4 Deportes
 
@@ -160,21 +159,21 @@ http://magmas5.com:8000/live/malotv/gratis/132284.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="28",National Geografic sd
+#EXTINF:-1 tvg-chno="28",
 
-http://magmas5.com:8000/live/malotv/gratis/132575.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="29",Ciencia del descubrimiento
-
-http://magmas5.com:8000/live/malotv/gratis/132585.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="30",History
+#EXTINF:-1 tvg-chno="29",
 
-http://magmas5.com:8000/live/malotv/gratis/132592.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="30",
+
+
 
 #EXTM3U
 
@@ -250,9 +249,9 @@ http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="43",Fox sports premium salvador
+#EXTINF:-1 tvg-chno="43",
 
-http://magmas5.com:8000/live/malotv/gratis/141925.m3u8
+
 
 #EXTM3U
 
@@ -334,15 +333,15 @@ http://magmas5.com:8000/live/malotv/gratis/129374.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="57",Inframundo
+#EXTINF:-1 tvg-chno="57",
 
-http://magmas5.com:8000/live/malotv/gratis/129373.m3u8
+
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="58",Cine Clásico
+#EXTINF:-1 tvg-chno="58",
 
-http://magmas5.com:8000/live/malotv/gratis/12565.m3u8
+
 
 #EXTM3U
 
@@ -400,9 +399,9 @@ http://magmas5.com:8000/live/malotv/gratis/129349.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="68",Crimen Investigacion
+#EXTINF:-1 tvg-chno="68",
 
-http://magmas5.com:8000/live/malotv/gratis/129351.m3u8
+
 
 #EXTM3U
 
@@ -412,9 +411,9 @@ http://magmas5.com:8000/live/malotv/gratis/129366.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="70",Star channel life
+#EXTINF:-1 tvg-chno="70",
 
-http://magmas5.com:8000/live/malotv/gratis/4782.m3u8
+
 
 #EXTM3U
 
