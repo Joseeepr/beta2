@@ -3,7 +3,7 @@
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 ,CANAL PLUTO TV TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
-#EXTINF:-1 ,CANAL VIWIX ACCION
-https://s2.tvdatta.com:3457/hybrid/play.m3u8
+#EXTINF:-1 STAR CHANNEL
+http://ultra-premium-pro.xyz:8080/alex01/alex01/104
 #EXTINF:-1 ,CANAL RETRO PLUS 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/definst/retroplussenal3 /playlist.m3u8?PlaylistM3UCL
