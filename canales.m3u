@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1",Tnt España
+#EXTINF:-1 tvg-chno="1",TNT
 
 http://magmas5.com:8000/live/malotv/gratis/126354.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="2",Espn3
+#EXTINF:-1 tvg-chno="2",ESPN3
 
 http://magmas5.com:8000/live/malotv/gratis/2686.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="3",Fox Sports
+#EXTINF:-1 tvg-chno="3",FOX SPORTS
 
 http://magmas5.com:8000/live/malotv/gratis/141925.m3u8
 
@@ -24,7 +24,7 @@ http://magmas5.com:8000/live/malotv/gratis/144620.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="5",Cdf Uhd
+#EXTINF:-1 tvg-chno="5",CDF
 
 http://magmas5.com:8000/live/malotv/gratis/2686.m3u8
 
@@ -42,55 +42,55 @@ http://magmas5.com:8000/live/malotv/gratis/152907.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="8",Golden
+#EXTINF:-1 tvg-chno="8",GOLDEN
 
 http://magmas5.com:8000/live/malotv/gratis/4957.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="9",Espn1
+#EXTINF:-1 tvg-chno="9",ESPN1
 
 http://magmas5.com:8000/live/malotv/gratis/145417.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="10",Axn
+#EXTINF:-1 tvg-chno="10",AXN
 
 http://magmas5.com:8000/live/malotv/gratis/4912.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="11",Hbo Hd
+#EXTINF:-1 tvg-chno="11",HBO
 
 http://magmas5.com:8000/live/malotv/gratis/150077.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="12",Hbo Hd2
+#EXTINF:-1 tvg-chno="12",HBO 2
 
 http://magmas5.com:8000/live/malotv/gratis/150078.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="13",Familia Hbo
+#EXTINF:-1 tvg-chno="13",HBO FAMILY
 
 http://magmas5.com:8000/live/malotv/gratis/150079.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="14",Firma Hbo
+#EXTINF:-1 tvg-chno="14",HBO SIGNATURE
 
 http://magmas5.com:8000/live/malotv/gratis/150081.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="15",Paramount hd
+#EXTINF:-1 tvg-chno="15",PARAMOUNT
 
 http://magmas5.com:8000/live/malotv/gratis/135670.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="16",Disney xD
+#EXTINF:-1 tvg-chno="16",DISNEY XD
 
 http://magmas5.com:8000/live/malotv/gratis/149679.m3u8
 
@@ -114,13 +114,13 @@ http://magmas5.com:8000/live/malotv/gratis/156073.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="20",Caracol Internacional
+#EXTINF:-1 tvg-chno="20",CARACOL INTERNACIONAL
 
 http://magmas5.com:8000/live/malotv/gratis/3573.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="21",Rcn Full HD
+#EXTINF:-1 tvg-chno="21",RCN
 
 http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
 
@@ -144,7 +144,7 @@ http://magmas5.com:8000/live/malotv/gratis/144815.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="25",National geografic sd
+#EXTINF:-1 tvg-chno="25",NATIONAL GEOGRAFIC
 
 http://magmas5.com:8000/live/malotv/gratis/132324.m3u8
 
@@ -154,19 +154,19 @@ http://magmas5.com:8000/live/malotv/gratis/144817.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="27",TyC Sports
+#EXTINF:-1 tvg-chno="27",TYC SPORTS
 
 http://magmas5.com:8000/live/malotv/gratis/132284.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="28",Serie Movistar
+#EXTINF:-1 tvg-chno="28",SERIE MOVISTAR
 
 http://magmas5.com:8000/live/malotv/gratis/126350.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="29",Amc España
+#EXTINF:-1 tvg-chno="29",AMC
 
 http://magmas5.com:8000/live/malotv/gratis/126369.m3u8
 
@@ -244,7 +244,7 @@ http://magmas5.com:8000/live/malotv/gratis/146541.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="42",TDn México
+#EXTINF:-1 tvg-chno="42",TDN México
 
 http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 
@@ -280,7 +280,7 @@ http://magmas5.com:8000/live/malotv/gratis/145436.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="48",Hbo Plus
+#EXTINF:-1 tvg-chno="48",HBO PLUS
 
 http://magmas5.com:8000/live/malotv/gratis/150080.m3u8
 
@@ -334,9 +334,9 @@ http://magmas5.com:8000/live/malotv/gratis/129374.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="57",Star channel life
+#EXTINF:-1 tvg-chno="57",DW Español
 
-http://magmas5.com:8000/live/malotv/gratis/4782.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTM3U
 
@@ -376,7 +376,7 @@ http://magmas5.com:8000/live/malotv/gratis/129321.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="64",Pokemon
+#EXTINF:-1 tvg-chno="64",POKEMON
 
 http://magmas5.com:8000/live/malotv/gratis/129325.m3u8
 
