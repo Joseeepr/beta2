@@ -96,7 +96,7 @@ http://magmas5.com:8000/live/malotv/gratis/149679.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="17",Crimen Universal
+#EXTINF:-1 tvg-chno="17",UNIVERSAL CRIME
 
 http://magmas5.com:8000/live/malotv/gratis/150075.m3u8
 
@@ -144,7 +144,7 @@ http://magmas5.com:8000/live/malotv/gratis/144815.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="25",NATIONAL GEOGRAFIC
+#EXTINF:-1 tvg-chno="25",NATIONAL GEOGRAPHIC
 
 http://magmas5.com:8000/live/malotv/gratis/132324.m3u8
 
@@ -160,7 +160,7 @@ http://magmas5.com:8000/live/malotv/gratis/132284.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="28",SERIE MOVISTAR
+#EXTINF:-1 tvg-chno="28",MOVISTAR+
 
 http://magmas5.com:8000/live/malotv/gratis/126350.m3u8
 
@@ -208,7 +208,7 @@ http://magmas5.com:8000/live/malotv/gratis/131982.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="36",Directv 2
+#EXTINF:-1 tvg-chno="36",DIRECTV Sports 2
 
 http://magmas5.com:8000/live/malotv/gratis/145404.m3u8
 
@@ -334,15 +334,15 @@ http://magmas5.com:8000/live/malotv/gratis/129374.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="57",DW Español
+#EXTINF:-1 tvg-chno="57",DW ESPAÑOL
 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="58",
+#EXTINF:-1 tvg-chno="58",EDUCANAL
 
-
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
 #EXTM3U
 
@@ -400,9 +400,9 @@ http://magmas5.com:8000/live/malotv/gratis/129349.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="68",
+#EXTINF:-1 tvg-chno="68",TV COSMOS
 
-
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTM3U
 
