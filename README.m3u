@@ -1,12 +1,12 @@
 ##EXTM3U
 
-#EXTINF:-1,ZIAL CHANNEL
+#EXTINF:-1,CANAL ZIAL
 http://151.80.27.136:8000/live/oscar1/oscar1/3275.m3u8
 #EXTINF:-1,ZIAL MUSIC
 http://151.80.27.136:8000/live/oscar1/oscar1/3331.m3u8
 #EXTINF:-1,24 HORAS HD
 http://151.80.27.136:8000/live/oscar1/oscar1/3695.m3u8
-#EXTINF:-1,MUSIC TOP
+#EXTINF:-1,MÚSICA SUPERIOR
 http://151.80.27.136:8000/live/oscar1/oscar1/3704.m3u8
 #EXTINF:-1,PARTIDOS MASIVOS
 http://151.80.27.136:8000/live/oscar1/oscar1/2592.m3u8
@@ -22,7 +22,7 @@ http://151.80.27.136:8000/live/oscar1/oscar1/2795.m3u8
 http://151.80.27.136:8000/live/oscar1/oscar1/1707.m3u8
 #EXTINF:-1,CDF HD2
 http://151.80.27.136:8000/live/oscar1/oscar1/4405.m3u8
-#EXTINF:-1,ID HD
+#EXTINF: -1, ID HD
 http://151.80.27.136:8000/live/oscar1/oscar1/2037.m3u8
 #EXTINF:-1,CDF PREMIUN
 http://151.80.27.136:8000/live/oscar1/oscar1/274.m3u8
@@ -34,13 +34,13 @@ http://151.80.27.136:8000/live/oscar1/oscar1/1074.m3u8
 http://151.80.27.136:8000/live/oscar1/oscar1/596.m3u8
 #EXTINF:-1,MEGA HD 2
 http://151.80.27.136:8000/live/oscar1/oscar1/3274.m3u8
-#EXTINF:-1,CHV HD
+#EXTINF: -1, CHV HD
 http://151.80.27.136:8000/live/oscar1/oscar1/447.m3u8
-#EXTINF:-1,CHV HD 2
+#EXTINF: -1, CHV HD 2
 http://151.80.27.136:8000/live/oscar1/oscar1/3273.m3u8
 #EXTINF:-1,CANAL13 HD
 http://151.80.27.136:8000/live/oscar1/oscar1/446.m3u8
-#EXTINF:-1,TVN HD
+#EXTINF: -1, TVN HD
 http://151.80.27.136:8000/live/oscar1/oscar1/15.m3u8
 #EXTINF:-1,CNN  CHILE HD
 http://151.80.27.136:8000/live/oscar1/oscar1/2543.m3u8
@@ -82,7 +82,7 @@ http://151.80.27.136:8000/live/oscar1/oscar1/2304.m3u8
 http://151.80.27.136:8000/live/oscar1/oscar1/3703.m3u8
 #EXTINF:-1,VIA X
 http://151.80.27.136:8000/live/oscar1/oscar1/2303.m3u8
-#EXTINF:-1,LIFETIME
+#EXTINF:-1,VIDA
 http://151.80.27.136:8000/live/oscar1/oscar1/1721.m3u8
 #EXTINF:-1,TELENOVELAS
 http://151.80.27.136:8000/live/oscar1/oscar1/1713.m3u8
@@ -546,10 +546,11 @@ http://151.80.27.136:8000/live/oscar1/oscar1/599.m3u8
 http://151.80.27.136:8000/live/oscar1/oscar1/2022.m3u8
 #EXTINF:-1,FOX SPORT 3 HD NORTE
 http://151.80.27.136:8000/live/oscar1/oscar1/2020.m3u8
-#EXTINF:-1,CINEMAX HD test
+#EXTINF: -1, prueba CINEMAX HD
 http://151.80.27.136:8000/live/oscar1/oscar1/2802.m3u8
-#EXTINF:-1,ESPN 2 HD test
+#EXTINF:-1,ESPN 2 Prueba HD
 http://151.80.27.136:8000/live/oscar1/oscar1/2797.m3u8
+
 
 
 
