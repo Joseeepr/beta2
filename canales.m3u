@@ -250,9 +250,9 @@ http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="43",Mega Cine TV
+#EXTINF:-1 tvg-chno="43",Canela Telenovelas
 
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 #EXTM3U
 
@@ -400,9 +400,9 @@ http://magmas5.com:8000/live/malotv/gratis/129349.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="68",TV COSMOS
+#EXTINF:-1 tvg-chno="68",BBC Drama
 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
 
 #EXTM3U
 
@@ -412,9 +412,9 @@ http://magmas5.com:8000/live/malotv/gratis/129366.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="70",
+#EXTINF:-1 tvg-chno="70",Televisa
 
-
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTM3U
 
@@ -439,4 +439,43 @@ http://magmas5.com:8000/live/malotv/gratis/3849.m3u8
 #EXTINF:-1 tvg-chno="74",Fox sports 2.
 
 http://magmas5.com:8000/live/malotv/gratis/3838.m3u8
+
+#EXTINF:-1 tvg-chno="75",Novelisima
+
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1 tvg-chno="76",RTS
+
+https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
+
+#EXTINF:-1 tvg-chno="77", Ecuavisa
+
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+
+#EXTINF:-1 tvg-chno="78",Pluto TV Channels
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-chno="79",Televisa Puebla
+
+https://hls.youtb.workers.dev/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+
+#EXTINF:-1 tvg-chno="80",Pluto TV Cine Acción España
+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="81",Pluto TV Cine Clásico España
+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="82",Pluto TV Cine Estelar España
+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="83",Pluto TV Cocina España
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
+
+#EXTINF:-1 tvg-chno="84",
+
 
