@@ -1,79 +1,15 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS",Novelisima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rBsqH2f.png" group-title="ATUALIZADA EM 21-12-22",ATUALIZADA EM 21-12-22
-http://swqwqqqw.com
+#EXTINF:-1  tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS",Sony Novelas
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS",BBC Drama
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
 
-############################### ABERTOS #############################################
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/1ExvIiu.png" group-title="TV",AMAZON SAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvebahia" tvg-logo="https://imgur.com/So0jA9Q.png" group-title="TV",TVE BAHIA
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MARTINTV
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="TV",TV CULTURA
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT - TV JORNAL (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/56kCir9.png" group-title="TV",REDE TV!
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="TV",REDE TV SUL WEBTV
-https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="TV",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/K2nTYls.png" group-title="TV",BR SUPER TV
-http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
-
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="TV",TV BAHIA
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-
-#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="TV",Globo RJ
-http://suatv.fun:80/canaisp2p/mudar@2021j45/416384
-
-#EXTINF:-1 tvg-id="RecordNacional.br" tvg-logo="https://imgur.com/HpyVVvg.png" group-title="TV",RECORD TV
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://imgur.com/pjRMhO7.png" group-title="TV",RECORD NEWS
-http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://imgur.com/zXr3WcV.png" group-title="TV",YEEAAH
-https://d1jm1s1ucr86be.cloudfront.net/out/v1/8559df6b1c694808b95981b01a09eb28/index.mpd
-
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="https://imgur.com/gFXEXFl.png" group-title="TV",CANÇÃO NOVA
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV",TV APARECIDA
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://imgur.com/xbSyJZI.png" group-title="TV",REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/edNpGyX.png" group-title="TV",TV BRASIL
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415295
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/zYMcdDO.png" group-title="TV",CANAL FUTURA
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-
-#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="https://imgur.com/pLbz2Vb.png" group-title="TV",HISTORY 2
-http://cdn.connectbr.com.br/h2/index.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.eu" tvg-logo="https://imgur.com/zq05sBA.png" group-title="TV",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://imgur.com/DCeA5Jt.png" group-title="TV",BAND NEWS
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415610
-
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/yvXclpa.png" group-title="TV",CNN Brasil
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415612
-
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://imgur.com/zxrZAHQ.png" group-title="TV",JOVEM PAN NEWS
-#EXTVLCOPT:http-referrer=Mozilla/5.0%20(iPhone;%20CPU%20iPhone%20OS%2014_8%20like%20Mac%20OS%20X)%20AppleWebKit/605.1.15%20(KHTML,%20like%20Gecko)%20Mobile/15E148
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
