@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U 
 #EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS",Novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
