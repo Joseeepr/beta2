@@ -184,9 +184,9 @@ http://magmas5.com:8000/live/malotv/gratis/135674.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="32",Campeonato brasil
+#EXTINF:-1 tvg-chno="32",HBO Xtreme
 
-http://magmas5.com:8000/live/malotv/gratis/151101.m3u8
+http://190.83.119.67:8000/play/a0ov/index.m3u8
 
 #EXTM3U
 
@@ -334,7 +334,7 @@ http://magmas5.com:8000/live/malotv/gratis/129374.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="57",DW ESPAÑOL
+#EXTINF:-1 tvg-chno="57",DW
 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -400,7 +400,7 @@ http://magmas5.com:8000/live/malotv/gratis/129349.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="68",BBC Drama
+#EXTINF:-1 tvg-chno="68",BBC
 
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
 
@@ -448,9 +448,9 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 
-#EXTINF:-1 tvg-chno="77", Ecuavisa
+#EXTINF:-1 tvg-chno="77", Univision
 
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+https://v-px.mybtv.net/live/28.m3u8
 
 #EXTINF:-1 tvg-chno="78",Pluto TV Channels
 
@@ -476,6 +476,71 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
 
+#EXTINF:-1 tvg-chno="84",TeleXitos
 
+https://v-px.mybtv.net/live/47.m3u8
 
+#EXTINF:-1 tvg-chno="85",Estrella TV
+
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-chno="86",Cinemax
+
+http://45.228.234.77:4430/play/cinemax
+
+#EXTINF:-1 tvg-chno="87",FX
+
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=528816603&_cdn_timestamp=1673418437&_cdn_token=b8b6ad6f1bc4b30a23eb63d2db0e12bcf86a1dfc
+
+#EXTINF:-1 tvg-chno="88",Universal Premiere
+
+http://181.175.41.170:8000/play/a0ge
+
+#EXTINF:-1 tvg-chno="89",HBO +
+
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-chno="90", HBO Family
+
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-chno="91",HBO 2
+
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+#EXTINF:-1 tvg-chno="92",HBO
+
+http://190.83.119.67:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-chno="93",GOLDEN PREMIER
+
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="94",GOLDEN PLUS
+
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="95",GOLDEN EDGE
+
+https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="96",LAS ESTRELLAS INT
+
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="97",Distrito Comedia
+
+https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="98",Unicable INT
+
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="99",Telemundo
+
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="100",RCN+
+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
