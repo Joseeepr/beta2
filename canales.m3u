@@ -448,9 +448,9 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 
-#EXTINF:-1 tvg-chno="77", Univision
+#EXTINF:-1 tvg-chno="77", 
 
-https://v-px.mybtv.net/live/28.m3u8
+
 
 #EXTINF:-1 tvg-chno="78",Pluto TV Channels
 
@@ -476,9 +476,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="84",TeleXitos
+#EXTINF:-1 tvg-chno="84",
 
-https://v-px.mybtv.net/live/47.m3u8
+
 
 #EXTINF:-1 tvg-chno="85",Estrella TV
 
@@ -488,13 +488,13 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
 http://45.228.234.77:4430/play/cinemax
 
-#EXTINF:-1 tvg-chno="87",FX
+#EXTINF:-1 tvg-chno="87",
 
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=528816603&_cdn_timestamp=1673418437&_cdn_token=b8b6ad6f1bc4b30a23eb63d2db0e12bcf86a1dfc
 
-#EXTINF:-1 tvg-chno="88",Universal Premiere
 
-http://181.175.41.170:8000/play/a0ge
+#EXTINF:-1 tvg-chno="88",
+
+
 
 #EXTINF:-1 tvg-chno="89",HBO +
 
@@ -536,9 +536,9 @@ https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="99",Telemundo
+#EXTINF:-1 tvg-chno="99",
 
-https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/hybrid/play.m3u8
+
 
 #EXTINF:-1 tvg-chno="100",RCN+
 
